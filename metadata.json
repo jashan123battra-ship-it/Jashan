@@ -1,0 +1,6 @@
+{
+  "name": "The Grand Veridian Resort & Spa",
+  "description": "A cliffside coastal sanctuary featuring luxury oceanfront villas, Michelin-starred gastronomy, thermal mineral spa rituals, and bespoke experiences.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
